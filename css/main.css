@@ -25,6 +25,11 @@ body {
 	margin: auto;
 }
 
+#footer{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 @keyframes bgColor {
 	0% {
 		background-color: #f44274;
